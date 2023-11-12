@@ -142,7 +142,7 @@ class GUI():
 
     def close(self):
         self.root.destroy()
-        import sys;sys.exit()
+        import os;os._exit(1)
 
 
 
