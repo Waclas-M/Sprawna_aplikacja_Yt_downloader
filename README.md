@@ -8,7 +8,5 @@ Aby projekt działał poprawnie należy pobrać biblioteki:
 
 -pip install pytube
 
-
-
-Uploading 2024-03-27 13-08-46.mp4…
+W folderze znajduje się filmik pokazowy.
 
